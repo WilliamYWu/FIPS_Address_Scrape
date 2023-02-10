@@ -13,7 +13,8 @@ The rest of the directory should be automatically created.
 ### Prerequisites
 
 The file can be found in the "code/requirements.txt" directory.
-'''
+
+```
 pip install -r "./FIPS_Address_Scraper/code/requirements.txt"
-'''
+```
 
